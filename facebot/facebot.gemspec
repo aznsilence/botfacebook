@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "facebot"
   spec.version       = Facebot::VERSION
   spec.authors       = ["aznsilence"]
-  spec.email         = ["etienne.nguyen@coding-academy.fr"]
+  spec.email         = ["aznsilence@mail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
